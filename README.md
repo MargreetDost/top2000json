@@ -2,7 +2,7 @@
 
 Van excel naar JSON:
 - tekst naar kolommen (scheiden op -)
-- kolommen D en E leeg (ontstaan door extra -)
+- kolommen D, E en F leeg en controleer G (ontstaan door extra -)
 - alles formaat tekst
 - overal spaties wissen (terugkopieren als waarden)
 - bovenste rij titel toevoegen
