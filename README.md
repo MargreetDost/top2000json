@@ -7,7 +7,7 @@ Van excel naar JSON:
 - overal spaties wissen (terugkopieren als waarden)
 - bovenste rij titel toevoegen
 - opslaan als csv
-- kopieren in csv converter
+- kopieren in csv converter (in map dataanalyse)
 - convert to JSON array
 - JSON file naar github + commit
 
