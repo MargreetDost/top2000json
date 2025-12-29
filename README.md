@@ -10,7 +10,7 @@ Van excel naar JSON:
 - kopieren in csv converter (in map dataanalyse)
 - convert to JSON array
 - JSON file naar github + commit
-- Voeg nieuwe jaar als option to in main.js
+- Voeg nieuwe jaar als option to in main.js (naar Netlify)
 - Zet loadYearAtStart op nieuwe jaar
 - uploaden naar netlify
 
